@@ -1,2 +1,1 @@
-# Amazon-front-page
-I created a duplicate first page of amazon.com using only html and css.
+I created a number guessing game using C language. In this game the computer generates a random number between 1 to 100 and asks you to guess the number. If you guessed the number correctly then you win but if you guessed wrong, it will tell you to guess a little higher or lower number depending on the number generated.
